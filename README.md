@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Md. Abiruzzaman Molla - aka [Pulock][http://abiruzzaman.me] 👋
+### Hi there, I'm Md. Abiruzzaman Molla - aka [http://abiruzzaman.me](Pulock) 👋
 
 ## I'm a Student, Undergraduate and Developer!
 
