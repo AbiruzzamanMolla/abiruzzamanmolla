@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Undergraduate and Developer!
 
-- 🔭 I’m currently working on Wordpress Theme Development
+- 🔭 I’m currently working on Fontend Design
 - 🌱 I’m currently learning Fullstack Web Development
-- 👯 I’m looking for a job
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 👯 I’m looking for an income source
+- 🤔 I’m looking for help with freelancing
+- 💬 Ask me about my works
+- 🥅 2020 Goals: Learn more and get an income source
 - ⚡ Fun fact: I love to read Books
 
 ### Connect with me:
