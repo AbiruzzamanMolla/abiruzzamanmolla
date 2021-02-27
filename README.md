@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Undergraduate and Developer!
 
-- 🔭 I’m currently working on Fontend Design
+- 🔭 I’m currently working on Frontend Design
 - 🌱 I’m currently learning Fullstack Web Development
 - 💬 Ask me about my works
 - 🥅 2020 Goals: Learn more and get an income source
