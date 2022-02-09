@@ -47,3 +47,5 @@
 
 <img src="https://github.com/asliabir/asliabir/blob/master/images/stat.svg" alt="Alternative Text"/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
