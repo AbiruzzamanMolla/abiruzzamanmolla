@@ -45,7 +45,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asliabir&theme=monokai)
 
-<figure><embed src="https://wakatime.com/share/@asliabir/cf9bb2df-7d8c-4858-8091-7a9b1d1f0626.svg"></embed></figure>
+<img src="https://wakatime.com/share/@asliabir/cf9bb2df-7d8c-4858-8091-7a9b1d1f0626.svg" alt="Alternative Text"/>
 
 <img src="https://github.com/asliabir/asliabir/blob/master/images/stat.svg" alt="Alternative Text"/>
 <img src="https://github.com/asliabir/asliabir/raw/master/charts/bar_graph.png" alt="Alternative Text"/>
