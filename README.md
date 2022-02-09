@@ -48,6 +48,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asliabir&theme=monokai)
 
 <img src="https://github.com/asliabir/asliabir/blob/master/images/stat.svg" alt="Alternative Text"/>
-![Chart not found](https://raw.githubusercontent.com/asliabir/asliabir/master/charts/bar_graph.png) 
+![Chart not found](https://github.com/asliabir/asliabir/raw/master/charts/bar_graph.png) 
 
 <!--END_SECTION:waka-->
