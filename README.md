@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+
 <h1 align="center">Hi 👋, I'm Md. Abiruzzaman Molla</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
@@ -46,6 +48,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asliabir&theme=monokai)
 
 <img src="https://github.com/asliabir/asliabir/blob/master/images/stat.svg" alt="Alternative Text"/>
+![Chart not found](https://raw.githubusercontent.com/asliabir/asliabir/master/charts/bar_graph.png) 
 
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
