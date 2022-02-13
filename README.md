@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Abiruzzaman Molla</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
-![](https://komarev.com/ghpvc/?username=asliabir&color=green)
+<img src="https://komarev.com/ghpvc/?username=asliabir&color=green"/>
 
 <!--START_SECTION:waka-->
 
