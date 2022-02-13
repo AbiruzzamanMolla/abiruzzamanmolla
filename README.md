@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Abiruzzaman Molla</h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
-<!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
+
+<!--START_SECTION:waka-->
 
 **🐱 My GitHub Data** 
 
