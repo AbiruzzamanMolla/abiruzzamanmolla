@@ -10,13 +10,13 @@
 
 - 👨‍💻 All of my projects are available at [https://asliabir.github.io](https://asliabir.github.io)
 
-- 📝 I regularly write articles on [https://asliabir.wordpress.com](my blog)
+- 📝 I regularly write articles on [my-blog](https://asliabir.wordpress.com)
 
 - 💬 Ask me about **PHP and Laravel**
 
 - 📫 How to reach me **abiruzzaman.molla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g4-sx0RCkylEhzUeXCq05Zgyo3HeQEwv/view?usp=sharing](@resume)
+- 📄 Know about my experiences [@resume](https://drive.google.com/file/d/1g4-sx0RCkylEhzUeXCq05Zgyo3HeQEwv/view?usp=sharing)
 
 - ⚡ Fun fact **I love to read Books**
 
