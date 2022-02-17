@@ -2,21 +2,21 @@
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 <img src="https://komarev.com/ghpvc/?username=asliabir&color=green"/> <p align="left"> <a href="https://twitter.com/asliabir" target="blank"><img src="https://img.shields.io/twitter/follow/asliabir?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
-- 🔭 I’m currently working on [AdminLTE](https://github.com/Jakirsoft-Intern/dt-adminlte-integration)
+- 🔭 I’m currently working on Something Awesome!
 
 - 🌱 I’m currently learning **Laravel, Vue, Node**
 
-- 👯 I’m looking to collaborate on [Jakirsoft](https://github.com/Jakirsoft-Intern)
+- 👯 I’m looking to collaborate on [Jakirsoft](https://github.com/Jakirsoft)
 
 - 👨‍💻 All of my projects are available at [https://asliabir.github.io](https://asliabir.github.io)
 
-- 📝 I regularly write articles on [https://asliabir.wordpress.com](https://asliabir.wordpress.com)
+- 📝 I regularly write articles on [https://asliabir.wordpress.com](my blog)
 
 - 💬 Ask me about **PHP and Laravel**
 
 - 📫 How to reach me **abiruzzaman.molla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g4-sx0RCkylEhzUeXCq05Zgyo3HeQEwv/view?usp=sharing](https://drive.google.com/file/d/1g4-sx0RCkylEhzUeXCq05Zgyo3HeQEwv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1g4-sx0RCkylEhzUeXCq05Zgyo3HeQEwv/view?usp=sharing](@resume)
 
 - ⚡ Fun fact **I love to read Books**
 
