@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Laravel, Vue, Node**
 
-- 👯 I’m looking to collaborate on [Jakirsoft](https://github.com/Jakirsoft)
+- 👯 I’m looking to collaborate on **Jakirsoft**
 
-- 👨‍💻 All of my projects are available at [https://asliabir.github.io](https://asliabir.github.io)
+- 👨‍💻 All of my projects are available at [my page](https://asliabir.github.io)
 
 - 📝 I regularly write articles on [my-blog](https://asliabir.wordpress.com)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abiruzzaman.molla@gmail.com**
 
-- 📄 Know about my experiences [@resume](https://drive.google.com/file/d/1g4-sx0RCkylEhzUeXCq05Zgyo3HeQEwv/view?usp=sharing)
+- 📄 Know about my experiences [@resume](https://cutt.ly/abirresume2522022)
 
 - ⚡ Fun fact **I love to read Books**
 
