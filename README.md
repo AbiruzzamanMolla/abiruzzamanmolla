@@ -6,11 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel, Vue, Node**
 
-- 👯 I’m looking to collaborate on **Jakirsoft**
-
 - 👨‍💻 All of my projects are available at [my page](https://asliabir.github.io)
-
-- 📝 I regularly write articles on [my-blog](https://asliabir.wordpress.com)
 
 - 💬 Ask me about **PHP and Laravel**
 
