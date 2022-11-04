@@ -79,18 +79,16 @@ Sunday       129 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JSON                     46 mins             ███████████████████████░░   92.23% 
-Other                    3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Inventory-Laravel-Vue    50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    50 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -111,5 +109,5 @@ PHP                      6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/asliabir/asliabir/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2022 18:54:37 UTC
+ Last Updated on 04/11/2022 18:49:44 UTC
 <!--END_SECTION:waka-->
