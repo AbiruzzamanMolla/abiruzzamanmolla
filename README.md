@@ -34,7 +34,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C415%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,17 +75,17 @@ Sunday                   939 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      1 hr 35 mins        █████████████░░░░░░░░░░░░   51.92 % 
-Blade Template           1 hr 28 mins        ████████████░░░░░░░░░░░░░   48.08 % 
+Blade Template           1 hr 6 mins         ██████████████████░░░░░░░   72.58 % 
+PHP                      24 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nabil-wiklis             3 hrs 3 mins        █████████████████████████   100.00 % 
+nabil-wiklis             1 hr 31 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -105,5 +105,5 @@ Vue                      5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2023 18:40:18 UTC
+ Last Updated on 01/07/2023 18:40:04 UTC
 <!--END_SECTION:waka-->
