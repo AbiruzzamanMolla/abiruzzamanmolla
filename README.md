@@ -75,17 +75,16 @@ Sunday                   939 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           1 hr 6 mins         ██████████████████░░░░░░░   72.58 % 
-PHP                      24 mins             ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nabil-wiklis             1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -105,5 +104,5 @@ Vue                      5 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 01/07/2023 18:40:04 UTC
+ Last Updated on 02/07/2023 18:39:44 UTC
 <!--END_SECTION:waka-->
