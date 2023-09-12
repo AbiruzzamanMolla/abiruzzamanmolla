@@ -32,13 +32,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C625%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C629%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 790.9 kB Used in GitHub's Storage 
+> 📦 791.0 kB Used in GitHub's Storage 
  > 
 > 🏆 2,004 Contributions in the Year 2023
  > 
@@ -75,16 +75,22 @@ Sunday                   1169 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    2 hrs               █████████████████████████   100.00 % 
+Blade Template           2 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.35 % 
+Other                    2 hrs               ████████░░░░░░░░░░░░░░░░░   33.19 % 
+PHP                      1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs               █████████████████████████   100.00 % 
+VS Code                  4 hrs 1 min         █████████████████░░░░░░░░   66.81 % 
+Google Calendar          2 hrs               ████████░░░░░░░░░░░░░░░░░   33.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs               █████████████████████████   100.00 % 
+merged-topcommerce       4 hrs 1 min         █████████████████░░░░░░░░   66.81 % 
+Unknown Project          2 hrs               ████████░░░░░░░░░░░░░░░░░   33.19 % 
 
 💻 Operating System: 
-Unknown OS               2 hrs               █████████████████████████   100.00 % 
+Windows                  4 hrs 1 min         █████████████████░░░░░░░░   66.81 % 
+Unknown OS               2 hrs               ████████░░░░░░░░░░░░░░░░░   33.19 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -104,5 +110,5 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2023 18:38:31 UTC
+ Last Updated on 12/09/2023 18:38:22 UTC
 <!--END_SECTION:waka-->
