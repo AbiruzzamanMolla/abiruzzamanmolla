@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abiruzzaman.molla@gmail.com**
 
-- 📄 Know about my experiences [@resume](https://cutt.ly/abirresume2522022)
+- 📄 Know about my experiences [@resume](https://resume.io/r/KgsbDXNcb)
 
 - ⚡ Fun fact **I love to read Books**
 
