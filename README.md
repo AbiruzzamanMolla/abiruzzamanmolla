@@ -40,8 +40,6 @@
 
 > 📦 945.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,990 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 58 Public Repositories 
@@ -112,5 +110,5 @@ CSS                      12 repos            ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2024 18:40:32 UTC
+ Last Updated on 04/05/2024 18:39:11 UTC
 <!--END_SECTION:waka-->
