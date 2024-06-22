@@ -75,20 +75,16 @@ Sunday                   2529 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      4 hrs 5 mins        ████████████████░░░░░░░░░   62.25 % 
-Other                    2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.54 % 
-Blade Template           19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 26 mins       █████████████████░░░░░░░░   67.59 % 
-Edge                     2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Edubank-Laravel          6 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +104,5 @@ CSS                      11 repos            ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2024 18:43:25 UTC
+ Last Updated on 22/06/2024 18:41:05 UTC
 <!--END_SECTION:waka-->
