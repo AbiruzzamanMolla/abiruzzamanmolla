@@ -32,6 +32,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%2C352%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -46,6 +48,45 @@
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2818 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌆 Daytime                8989 commits        ███████████████░░░░░░░░░░   60.24 % 
+🌃 Evening                3010 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+🌙 Night                  106 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2176 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Tuesday                  2648 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+Wednesday                2485 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Thursday                 2450 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Friday                   899 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Saturday                 2071 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Sunday                   2194 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -63,5 +104,5 @@ CSS                      11 repos            ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2024 18:47:05 UTC
+ Last Updated on 26/07/2024 18:41:51 UTC
 <!--END_SECTION:waka-->
