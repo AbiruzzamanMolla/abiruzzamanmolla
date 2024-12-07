@@ -40,6 +40,8 @@
 
 > 📦 947.5 kB Used in GitHub's Storage 
  > 
+> 🏆 3,196 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -110,5 +112,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2024 18:52:14 UTC
+ Last Updated on 07/12/2024 18:49:08 UTC
 <!--END_SECTION:waka-->
