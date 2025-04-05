@@ -75,17 +75,16 @@ Sunday                   2115 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           5 mins              ████████████████████████░   94.99 % 
-PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-islamicaudiobookorg      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,5 +104,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2025 18:51:13 UTC
+ Last Updated on 05/04/2025 18:47:47 UTC
 <!--END_SECTION:waka-->
