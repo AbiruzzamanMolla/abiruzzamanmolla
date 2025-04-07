@@ -32,7 +32,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%2C870%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%2C876%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,16 +73,23 @@ Sunday                   2124 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           2 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+PHP                      1 hr 59 mins        ████████░░░░░░░░░░░░░░░░░   32.41 % 
+Other                    1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 10 mins       █████████████████████░░░░   84.16 % 
+Edge                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+topcommerce_latest       4 hrs 19 mins       ██████████████████░░░░░░░   70.33 % 
+ecoshop_latest           1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+wsus_laravel_global_setup5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,5 +109,5 @@ TypeScript               4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 06/04/2025 18:48:15 UTC
+ Last Updated on 07/04/2025 18:50:42 UTC
 <!--END_SECTION:waka-->
