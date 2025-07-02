@@ -3,17 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 - 🔭 I’m currently working on Something Awesome!
-
-- 🌱 I’m currently learning **Laravel, Vue, Node**
-
-- 👨‍💻 All of my projects are available at [my page](https://abiruzzamanmolla.github.io)
-
+- 🌱 I’m currently learning **Nothing...**
+- 👨‍💻 All of my projects are available at [my page](https://github.comabiruzzamanmolla)
 - 💬 Ask me about **PHP and Laravel**
-
 - 📫 How to reach me **abiruzzaman.molla@gmail.com**
-
-- 📄 Know about my experiences [@resume](https://resume.io/r/KgsbDXNcb)
-
+- 📄 Know about my experiences [@resume](https://resume.io/r/KgsbDXNcb) [@experiances]([https://resume.io/r/KgsbDXNcb](https://www.self.so/abiruzzaman-molla)
 - ⚡ Fun fact **I love to read Books**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,7 +17,7 @@
 <a href="https://linkedin.com/in/abiruzzamanmolla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asliabir" height="30" width="40" /></a>
 <a href="https://fb.com/abiruzzamanmolla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.abiruzzamanmolla/" height="30" width="40" /></a>
 <a href="https://instagram.com/abiruzzaman.molla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abiruzzaman.molla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@PracticeWithAbir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucg2m3qes4tgilv_xjrjwrog" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@CodeWithAbirOfficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucg2m3qes4tgilv_xjrjwrog" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/asliabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asliabir" height="30" width="40" /></a>
 </p>
 
