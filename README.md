@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [my page](https://github.comabiruzzamanmolla)
 - 💬 Ask me about **PHP and Laravel**
 - 📫 How to reach me **abiruzzaman.molla@gmail.com**
-- 📄 Know about my experiences [@resume](https://resume.io/r/KgsbDXNcb) [@experiances]([https://resume.io/r/KgsbDXNcb](https://www.self.so/abiruzzaman-molla)
+- 📄 Know about my experiences [@resume](https://resume.io/r/KgsbDXNcb) [@experiances](https://www.self.so/abiruzzaman-molla)
 - ⚡ Fun fact **I love to read Books**
 
 <h3 align="left">Connect with me:</h3>
