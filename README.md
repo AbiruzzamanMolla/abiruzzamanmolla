@@ -28,11 +28,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%2C371%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,101 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,5 +104,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 19:00:10 UTC
+ Last Updated on 02/08/2025 18:58:59 UTC
 <!--END_SECTION:waka-->
