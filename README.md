@@ -11,9 +11,17 @@
 ## 💻 Currently @WebSolutionUS
 
 Working on meaningful Laravel-based applications and solving real-world problems.  
+I have contributed to a wide range of **production-grade web applications** including:
 
-📫 **Reach me:** [abiruzzaman.molla@gmail.com](mailto:abiruzzaman.molla@gmail.com)  
-📄 **Know about my experiences:** [@resume](https://resume.io/r/KgsbDXNcb) | [@experiances](https://www.self.so/abiruzzaman-molla)
+- Business directory and listing platforms with SaaS capabilities  
+- Multi-vendor eCommerce systems with complete vendor and product management  
+- Real estate agency portals with property listing and agent features  
+- On-demand service marketplaces for handyman and service providers  
+- Online food ordering systems for single restaurants  
+- E-learning and course management platforms (LMS)  
+- Custom payment gateway integrations and add-ons  
+
+These projects involved **complex backend development**, **database architecture**, **REST API design**, **SaaS multi-tenancy**, **admin dashboards**, **payment integration**, **role-based access control** and **RESTFul API** using **Laravel**, **MySQL**, **AJAX**, and **Bootstrap**.
 
 ---
 
@@ -144,10 +152,9 @@ Watches your Laravel log file and notifies you when it changes
 
 ## 🔗 Let’s Connect
 
-- 🐙 **GitHub**: [github.com/abiruzzamanmolla](https://github.com/abiruzzamanmolla)  
-- 📩 **Email**: [abiruzzaman.molla@gmail.com](mailto:abiruzzaman.molla@gmail.com)  
-- 📄 **Resume**: [resume.io/r/KgsbDXNcb](https://resume.io/r/KgsbDXNcb)  
-- 🌐 **Experience**: [self.so/abiruzzaman-molla](https://www.self.so/abiruzzaman-molla)
+🐙 **GitHub**: [github.com/abiruzzamanmolla](https://github.com/abiruzzamanmolla)  
+📫 **Reach me:** [abiruzzaman.molla@gmail.com](mailto:abiruzzaman.molla@gmail.com)  
+📄 **Know about my experiences:** [@resume](https://resume.io/r/KgsbDXNcb) | [@experiances](https://www.self.so/abiruzzaman-molla)
 
 <p align="left">
 <a href="https://twitter.com/abiruzzaman_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asliabir" height="30" width="40" /></a>
