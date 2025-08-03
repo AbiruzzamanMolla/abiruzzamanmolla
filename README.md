@@ -1,10 +1,25 @@
-<h1 align="center">Hi 👋, I'm Md. Abiruzzaman Molla</h1>
-<h3 align="center">A passionate <strong>backend developer</strong> from <b>Bangladesh</b> with <b>4+ years of experience</b> building robust, scalable web apps using <b>PHP</b>, <b>Laravel</b>, <b>JavaScript</b>, <b>jQuery</b>, and <b>Vue.js</b>.</h3>
+<h1 align="center">Hi 👋, I'm Md Abiruzzaman Molla</h1>
+<h3 align="center">
+  A passionate <strong>Laravel-based software developer</strong> from <strong>Bangladesh</strong>, with 4+ years of experience crafting scalable and production-ready web applications. I specialize in backend development using <strong>Laravel</strong>, <strong>MySQL</strong>, <strong>AJAX</strong>, and <strong>Bootstrap</strong>, and I’ve contributed to a wide range of commercial and SaaS platforms.
+</h3>
 
-🔭 I’m currently working on **Something Awesome**  
-🌱 I’m currently learning **Nothing...**  
-💬 Ask me about **PHP and Laravel**  
-⚡ Fun fact: **I love to read books**  
+---
+
+## 👨‍💻 A Little About Me
+
+I’ve worked on a wide range of web projects — from simple CRUD apps to full-featured platforms.   I enjoy solving problems, reading books, and exploring new technologies.  Always eager to **learn**, **grow**, and **collaborate** with fellow developers.
+
+> **My mission:** Build meaningful apps that make life easier.
+
+---
+### 🚀 My Expertise
+* End-to-end **backend architecture** using Laravel ^5.0  
+* Building **RESTful APIs**, handling **database design (MySQL)**, MVC patterns, and SaaS multi-tenancy  
+* Frontend enhancement using **Bootstrap**, **AJAX**, Vue.js, and responsive design principles  
+* Seamless **payment gateway integration**, including custom add‑ons with Stripe, PayPal, PayStack, Flutterwave, RazorPay, Mollie, InstaMojo (v1 & v2), Mercadopago, SSLCommerz, Nagad, bKash, and cryptocurrency  
+* Integration of marketing & analytics tools: Google Social Login, Google Tag Manager, Google reCAPTCHA, Facebook Pixel, Google Analytics  
+* Courier & logistics API connections with Steadfast, Pathao, etc.  
+* Maintaining **clean, secure, production-grade code**, with knowledge of CSRF, XSS, and SQL injection mitigation  
 
 ---
 
@@ -21,109 +36,99 @@ I have contributed to a wide range of **production-grade web applications** incl
 - E-learning and course management platforms (LMS)  
 - Custom payment gateway integrations and add-ons  
 
-These projects involved **complex backend development**, **database architecture**, **REST API design**, **SaaS multi-tenancy**, **admin dashboards**, **payment integration**, **role-based access control** and **RESTFul API** using **Laravel**, **MySQL**, **AJAX**, and **Bootstrap**.
-
----
-
-## 👨‍💻 A Little About Me
-
-I’ve worked on a wide range of web projects — from simple CRUD apps to full-featured platforms.  
-I enjoy solving problems, reading books, and exploring new technologies.  
-Always eager to **learn**, **grow**, and **collaborate** with fellow developers.
-
-> **My mission:** Build meaningful apps that make life easier.
+These projects involved **complex backend development**, **database architecture**, **REST API design**, **SaaS multi-tenancy**, **admin dashboards**, **payment integration**, **role-based access control** and **RESTful API** using **Laravel**, **MySQL**, **AJAX**, and **Bootstrap**.
 
 ---
 
 ## 🛠️ My Tech Toolbox
 
 ### 🔧 Languages & Frameworks
-- PHP
-- Laravel
-- JavaScript
-- Vue.js
-- SQL
-- HTML & CSS
+- PHP  
+- Laravel  
+- JavaScript  
+- Vue.js  
+- SQL  
+- HTML & CSS  
 
 ### ⚙️ Core Concepts
-- MVC
-- ORM
-- RESTful APIs
-- Agile
+- MVC  
+- ORM  
+- RESTful APIs  
+- Agile  
 
 ### 🔨 Tools
-- Git
-- Postman
-- VS Code
-- PHPStorm
-- Jira
-- Notion
-- ChatGPT
-  
+- Git  
+- Postman  
+- VS Code  
+- PHPStorm  
+- Jira  
+- Notion  
+- ChatGPT  
+
 ---
 
 ## 💼 My Developer Journey
 
 ### 👨‍💻 Mid Software Developer – WebSolutionUS *(Aug 2023 – Present)*  
 Full-time | Bangladesh  
-- Leveraged Laravel, Bootstrap, AJAX, and MySQL to build innovative web applications 
+- Leveraged Laravel, Bootstrap, AJAX, and MySQL to build innovative web applications  
 - Focused on backend development, database management, REST API design  
-- Provided technical support and followed latest trends in web technologies
+- Provided technical support and followed latest trends in web technologies  
 - Collaborated closely with design and development teams  
-- Wrote clean code, performed unit testing, and kept up-to-date with tech trends
+- Wrote clean code, performed unit testing, and kept up-to-date with tech trends  
 
 ### 👨‍💻 Backend Developer – Devintime *(Oct 2022 – Aug 2023)*  
 Full-time | Bangladesh  
 - Backend development using Laravel  
 - MySQL-based database management and API development  
-- Delivered technical support and maintained code quality
+- Delivered technical support and maintained code quality  
 
 ### 👨‍💻 Laravel Developer – Zakirsoft *(Jan 2022 – Sept 2022)*  
 Full-time | Shyamoli, Dhaka  
 - Took ownership of backend development tasks  
 - Developed secure and scalable Laravel apps  
-- Built and managed REST APIs
+- Built and managed REST APIs  
 - Entry-level Laravel role  
 - Assisted in backend development and API creation  
-- Focused on code quality and scalability
+- Focused on code quality and scalability  
 
 ### 🧑‍💻 Web Developer Intern – Itlogiko *(Sep 2019 – Feb 2020)*  
 Internship | Uttara, Dhaka  
 - Gained foundational experience in full-stack web development  
 - Helped build database-driven applications  
-- Collaborated with other team members to bring mockups to life
+- Collaborated with other team members to bring mockups to life  
 
 ---
 
 ## 🎓 Education
 
 - 🎓 **Southeast University** *(2020 – 2021)*  
-  Bachelor of Science, Computer Science and Engineering
+  Bachelor of Science, Computer Science and Engineering  
 
 - 🎓 **Feni Computer Institute** *(2015 – 2019)*  
-  Diploma in Engineering, Data Telecommunication & Networking Technology
+  Diploma in Engineering, Data Telecommunication & Networking Technology  
 
 - 🎓 **Narsingdi Public College** *(2014)*  
-  Higher Secondary Certificate, Science
+  Higher Secondary Certificate, Science  
 
 ---
 
 ## 📦 My Laravel Packages on Packagist
 
 ### 🛒 [LaravelCart](https://packagist.org/packages/azmolla/laravelcart)  
-Add a flexible shopping cart to your Laravel app
+Add a flexible shopping cart to your Laravel app  
 
 ### 🛡️ [Blade Try-Catch](https://packagist.org/packages/azmolla/blade-try-catch)  
-Clean error handling inside Blade templates
+Clean error handling inside Blade templates  
 
 ### ✉️ [Laravel Mail Logger](https://packagist.org/packages/azmolla/laravel-mail-logger)  
-Log outgoing emails for debugging
+Log outgoing emails for debugging  
 
 ### 🛠️ [Maintenance Mode](https://packagist.org/packages/azmolla/maintenance-mode)  
-Database-controlled maintenance toggle
+Database-controlled maintenance toggle  
 
 ### 🔒 [Transaction Middleware](https://packagist.org/packages/azmolla/transaction-middleware)  
-Wrap DELETE requests & custom methods in DB transactions
+Wrap DELETE requests & custom methods in DB transactions  
 
 ---
 
@@ -132,16 +137,16 @@ Wrap DELETE requests & custom methods in DB transactions
 I publish useful and lightweight **VS Code extensions** to boost your productivity:
 
 ### 🔧 [Laragon Terminal Config](https://marketplace.visualstudio.com/items?itemName=azmolla.laragon-terminal-config)  
-Quickly configure the terminal in VS Code for Laragon users
+Quickly configure the terminal in VS Code for Laragon users  
 
 ### 🕌 [Prayer Timer Bangladesh](https://marketplace.visualstudio.com/items?itemName=azmolla.prayer-timer-bangladesh)  
-Show real-time prayer times based on your location in Bangladesh — right inside VS Code
+Show real-time prayer times based on your location in Bangladesh — right inside VS Code  
 
 ### 💬 [Motivational & Inspirational Quotes](https://marketplace.visualstudio.com/items?itemName=azmolla.motivational-and-inspirational-quotes)  
-Get daily doses of motivation while coding — auto-refreshing quotes in your editor
+Get daily doses of motivation while coding — auto-refreshing quotes in your editor  
 
 ### 📉 [Laravel Log Watcher](https://marketplace.visualstudio.com/items?itemName=azmolla.laravel-log-watcher)  
-Watches your Laravel log file and notifies you when it changes
+Watches your Laravel log file and notifies you when it changes  
 
 ---
 
