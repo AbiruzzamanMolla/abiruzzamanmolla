@@ -57,10 +57,47 @@ Always eager to **learn**, **grow**, and **collaborate** with fellow developers.
 
 ## 💼 My Developer Journey
 
-- 👨‍💼 **Mid Software Developer** – Web Solution US *(Aug 2023 – Present)*
-- 🔧 **Backend Developer** – Devintime *(Oct 2022 – Aug 2023)*
-- ⚙️ **Laravel Developer** – Templatecookie *(Aug 2022 – Sep 2022)*
-- 🔨 **Laravel Developer** – Zakirsoft *(Jan 2022 – Jul 2022)*
+### 👨‍💻 Mid Software Developer – WebSolutionUS *(Aug 2023 – Present)*  
+Full-time | Bangladesh  
+- Leveraged Laravel, Bootstrap, AJAX, and MySQL to build innovative web applications 
+- Focused on backend development, database management, REST API design  
+- Provided technical support and followed latest trends in web technologies
+- Collaborated closely with design and development teams  
+- Wrote clean code, performed unit testing, and kept up-to-date with tech trends
+
+### 👨‍💻 Backend Developer – Devintime *(Oct 2022 – Aug 2023)*  
+Full-time | Bangladesh  
+- Backend development using Laravel  
+- MySQL-based database management and API development  
+- Delivered technical support and maintained code quality
+
+### 👨‍💻 Laravel Developer – Zakirsoft *(Jan 2022 – Sept 2022)*  
+Full-time | Shyamoli, Dhaka  
+- Took ownership of backend development tasks  
+- Developed secure and scalable Laravel apps  
+- Built and managed REST APIs
+- Entry-level Laravel role  
+- Assisted in backend development and API creation  
+- Focused on code quality and scalability
+
+### 🧑‍💻 Web Developer Intern – Itlogiko *(Sep 2019 – Feb 2020)*  
+Internship | Uttara, Dhaka  
+- Gained foundational experience in full-stack web development  
+- Helped build database-driven applications  
+- Collaborated with other team members to bring mockups to life
+
+---
+
+## 🎓 Education
+
+- 🎓 **Southeast University** *(2020 – 2021)*  
+  Bachelor of Science, Computer Science and Engineering
+
+- 🎓 **Feni Computer Institute** *(2015 – 2019)*  
+  Diploma in Engineering, Data Telecommunication & Networking Technology
+
+- 🎓 **Narsingdi Public College** *(2014)*  
+  Higher Secondary Certificate, Science
 
 ---
 
