@@ -11,7 +11,6 @@
 ## 💻 Currently @WebSolutionUS
 
 Working on meaningful Laravel-based applications and solving real-world problems.  
-All of my projects are available on 👉 [GitHub](https://github.com/abiruzzamanmolla)
 
 📫 **Reach me:** [abiruzzaman.molla@gmail.com](mailto:abiruzzaman.molla@gmail.com)  
 📄 **Know about my experiences:** [@resume](https://resume.io/r/KgsbDXNcb) | [@experiances](https://www.self.so/abiruzzaman-molla)
