@@ -170,13 +170,15 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%2C430%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%2C435%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,179 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -211,22 +213,22 @@ Sunday                   2286 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-HTML                     22 hrs 58 mins      ███████████████░░░░░░░░░░   59.98 % 
-PHP                      6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Other                    3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Bash                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-SQL                      1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+HTML                     25 hrs 12 mins      ██████████████████░░░░░░░   72.32 % 
+PHP                      3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Bash                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Blade Template           1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 28 mins      ███████████████████████░░   90.03 % 
-Edge                     3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+VS Code                  31 hrs 17 mins      ██████████████████████░░░   89.76 % 
+Edge                     3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 
 🐱‍💻 Projects: 
-topcommerce_latest       37 hrs 57 mins      █████████████████████████   99.13 % 
-t2s-google-studio-api    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+topcommerce_latest       34 hrs 31 mins      █████████████████████████   99.04 % 
+t2s-google-studio-api    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  38 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -246,5 +248,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2025 18:59:07 UTC
+ Last Updated on 15/08/2025 18:57:20 UTC
 <!--END_SECTION:waka-->
