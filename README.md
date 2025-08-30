@@ -43,27 +43,13 @@ These projects involved **complex backend development**, **database architecture
 ## 🛠️ My Tech Toolbox
 
 ### 🔧 Languages & Frameworks
-- PHP  
-- Laravel  
-- JavaScript  
-- Vue.js  
-- SQL  
-- HTML & CSS  
+PHP, Laravel, JavaScript, Vue.js, SQL, HTML & CSS
 
 ### ⚙️ Core Concepts
-- MVC  
-- ORM  
-- RESTful APIs  
-- Agile  
+MVC, ORM, RESTful APIs, Agile
 
 ### 🔨 Tools
-- Git  
-- Postman  
-- VS Code  
-- PHPStorm  
-- Jira  
-- Notion  
-- ChatGPT  
+Git, Postman, VS Code, PHPStorm, Jira, Notion, ChatGPT
 
 ---
 
