@@ -156,13 +156,15 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-18%2C615%20hrs%2045%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,422 Contributions in the Year 2025
+> 🏆 1,433 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -173,21 +175,21 @@ Watches your Laravel log file and notifies you when it changes
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4468 commits        █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-🌆 Daytime                12877 commits       ███████████████░░░░░░░░░░   60.48 % 
-🌃 Evening                3818 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-🌙 Night                  130 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+🌞 Morning                4471 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+🌆 Daytime                12881 commits       ███████████████░░░░░░░░░░   60.46 % 
+🌃 Evening                3821 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+🌙 Night                  131 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3279 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Tuesday                  3747 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Wednesday                3514 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Thursday                 3642 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Monday                   3282 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Tuesday                  3750 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+Wednesday                3514 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Thursday                 3643 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 Friday                   1353 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Saturday                 2295 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Sunday                   3463 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 2298 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Sunday                   3464 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 ```
 
 
@@ -233,5 +235,5 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2025 18:53:18 UTC
+ Last Updated on 04/10/2025 18:49:56 UTC
 <!--END_SECTION:waka-->
