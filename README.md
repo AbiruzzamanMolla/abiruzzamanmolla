@@ -162,7 +162,7 @@ Watches your Laravel log file and notifies you when it changes
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,525 Contributions in the Year 2025
+> 🏆 1,526 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -173,11 +173,11 @@ Watches your Laravel log file and notifies you when it changes
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     31 repos            ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-PHP                      28 repos            █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-JavaScript               28 repos            █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Blade                    22 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+HTML                     31 repos            ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+JavaScript               28 repos            █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+PHP                      27 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Blade                    22 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+TypeScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 ```
 
 
@@ -187,5 +187,5 @@ TypeScript               10 repos            ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 01/11/2025 18:54:03 UTC
+ Last Updated on 02/11/2025 18:50:04 UTC
 <!--END_SECTION:waka-->
