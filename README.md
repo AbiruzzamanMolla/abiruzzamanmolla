@@ -156,7 +156,7 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%2C724%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%2C729%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -199,23 +199,23 @@ Sunday                   3499 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      14 hrs 28 mins      ██████████████░░░░░░░░░░░   55.14 % 
-Blade Template           5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Other                    5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+PHP                      13 hrs 23 mins      ████████████░░░░░░░░░░░░░   48.85 % 
+Other                    7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+Blade Template           6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 5 mins       ████████████████████░░░░░   80.31 % 
-Edge                     5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
+VS Code                  20 hrs 29 mins      ███████████████████░░░░░░   74.70 % 
+Edge                     6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
 
 🐱‍💻 Projects: 
-charity-laravel          24 hrs 9 mins       ███████████████████████░░   92.00 % 
-charity-html             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-smm-laravel              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+charity-laravel          25 hrs 19 mins      ███████████████████████░░   92.35 % 
+charity-html             1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+smm-laravel              1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 💻 Operating System: 
-Windows                  26 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -235,5 +235,5 @@ TypeScript               10 repos            ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 06/11/2025 18:58:58 UTC
+ Last Updated on 07/11/2025 18:53:44 UTC
 <!--END_SECTION:waka-->
