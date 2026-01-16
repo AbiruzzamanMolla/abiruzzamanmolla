@@ -156,7 +156,7 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%2C489%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%2C494%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -168,9 +168,9 @@ Watches your Laravel log file and notifies you when it changes
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 81 Public Repositories 
+> 📜 80 Public Repositories 
  > 
-> 🔑 36 Private Repositories 
+> 🔑 37 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -199,26 +199,27 @@ Sunday                   3886 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      10 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
-Blade Template           5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Other                    3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Bash                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-HTML                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+PHP                      7 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Blade Template           5 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Other                    4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   36.80 % 
-Edge                     7 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-Antigravity              7 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Antigravity              12 hrs 22 mins      ██████████████░░░░░░░░░░░   54.22 % 
+Edge                     6 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+VS Code                  4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Trae                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-findestate_latest        22 hrs 1 min        ███████████████████████░░   91.46 % 
-udemy_chatting_system    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-t2s-google-ai-python     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-bangla-ocr-windows       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+findestate_latest        20 hrs 48 mins      ███████████████████████░░   91.13 % 
+udemy_chatting_system    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+t2s-google-ai-python     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+main_files               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  24 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  22 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -238,5 +239,5 @@ TypeScript               12 repos            ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2026 19:11:41 UTC
+ Last Updated on 16/01/2026 19:10:03 UTC
 <!--END_SECTION:waka-->
