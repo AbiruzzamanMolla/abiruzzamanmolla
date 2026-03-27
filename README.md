@@ -156,7 +156,7 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%2C648%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%2C653%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -199,23 +199,23 @@ Sunday                   3877 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           36 mins             ██████████████░░░░░░░░░░░   54.94 % 
-HTML                     17 mins             ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Blade Template           3 hrs 19 mins       ███████████████░░░░░░░░░░   59.37 % 
+PHP                      1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+HTML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 
 🔥 Editors: 
-Antigravity              36 mins             ██████████████░░░░░░░░░░░   55.68 % 
-VS Code                  18 mins             ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Edge                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Antigravity              4 hrs 48 mins       █████████████████████░░░░   85.97 % 
+Edge                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         40 mins             ███████████████░░░░░░░░░░   61.47 % 
-graphicdesigneye-html    25 mins             ██████████░░░░░░░░░░░░░░░   38.53 % 
+graphicdesigneye         5 hrs 10 mins       ███████████████████████░░   92.40 % 
+graphicdesigneye-html    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,5 +235,5 @@ TypeScript               15 repos            ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 19:47:29 UTC
+ Last Updated on 27/03/2026 19:26:15 UTC
 <!--END_SECTION:waka-->
