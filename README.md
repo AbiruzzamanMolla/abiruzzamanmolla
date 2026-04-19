@@ -156,6 +156,8 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-21%2C765%20hrs%2042%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -170,6 +172,54 @@ Watches your Laravel log file and notifies you when it changes
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4510 commits        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+🌆 Daytime                13021 commits       ███████████████░░░░░░░░░░   59.39 % 
+🌃 Evening                4133 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+🌙 Night                  259 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3413 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Tuesday                  3731 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Wednesday                3575 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Thursday                 3593 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Friday                   1538 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Saturday                 2528 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Sunday                   3545 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Blade Template           16 hrs 44 mins      ████████████░░░░░░░░░░░░░   46.58 % 
+Other                    8 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+PHP                      2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Markdown                 2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+C#                       1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+
+🔥 Editors: 
+Antigravity              32 hrs 2 mins       ██████████████████████░░░   89.18 % 
+Edge                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+
+🐱‍💻 Projects: 
+graphicdesigneye         27 hrs 57 mins      ███████████████████░░░░░░   77.84 % 
+DailyPrayerTime          6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+celestial-prayer-guide   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+daily-prayer-timer-websit24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+html-backup              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+
+💻 Operating System: 
+Windows                  35 hrs 55 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -187,5 +237,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 19:27:20 UTC
+ Last Updated on 19/04/2026 19:25:48 UTC
 <!--END_SECTION:waka-->
