@@ -156,15 +156,13 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%2C895%20hrs%201%20min-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,460 Contributions in the Year 2026
+> 🏆 1,476 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -172,54 +170,6 @@ Watches your Laravel log file and notifies you when it changes
  > 
 > 🔑 49 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4579 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌆 Daytime                13278 commits       ███████████████░░░░░░░░░░   59.30 % 
-🌃 Evening                4258 commits        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-🌙 Night                  276 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3517 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Tuesday                  3808 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Wednesday                3626 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 3685 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Friday                   1581 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-Saturday                 2603 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Sunday                   3571 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Blade Template           25 hrs 2 mins       ███████████████░░░░░░░░░░   61.85 % 
-PHP                      7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Other                    2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Markdown                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-C#                       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-
-🔥 Editors: 
-Antigravity              38 hrs 32 mins      ████████████████████████░   95.19 % 
-Edge                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-
-🐱‍💻 Projects: 
-graphicdesigneye         35 hrs 30 mins      ██████████████████████░░░   87.67 % 
-DailyPrayerTime          3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-worktracker              54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-daily-prayer-timer-websit46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-deskrona-visual-refresh  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-
-💻 Operating System: 
-Windows                  40 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -237,5 +187,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 19:52:00 UTC
+ Last Updated on 17/05/2026 19:58:32 UTC
 <!--END_SECTION:waka-->
