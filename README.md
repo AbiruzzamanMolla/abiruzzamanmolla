@@ -156,15 +156,13 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%2C107%20hrs%2024%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,961 Contributions in the Year 2026
+> 🏆 1,963 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -172,51 +170,6 @@ Watches your Laravel log file and notifies you when it changes
  > 
 > 🔑 51 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4647 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-🌆 Daytime                13560 commits       ███████████████░░░░░░░░░░   59.34 % 
-🌃 Evening                4352 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-🌙 Night                  293 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3585 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Tuesday                  3921 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Thursday                 3722 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Friday                   1642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Saturday                 2634 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Sunday                   3627 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-Blade Template           9 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.35 % 
-PHP                      7 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
-Other                    3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-SQL                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-
-🔥 Editors: 
-Antigravity IDE          20 hrs 15 mins      ██████████████████████░░░   88.96 % 
-Edge                     2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-
-🐱‍💻 Projects: 
-graphicdesigneye         21 hrs 43 mins      ████████████████████████░   95.37 % 
-t2s-google-ai-python     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-
-💻 Operating System: 
-Windows                  22 hrs 46 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -234,5 +187,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 20:16:43 UTC
+ Last Updated on 23/07/2026 20:19:39 UTC
 <!--END_SECTION:waka-->
