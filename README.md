@@ -156,7 +156,7 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%2C115%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%2C117%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -164,7 +164,7 @@ Watches your Laravel log file and notifies you when it changes
 
 > 📦 7.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,977 Contributions in the Year 2026
+> 🏆 1,980 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -175,21 +175,21 @@ Watches your Laravel log file and notifies you when it changes
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4647 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-🌆 Daytime                13574 commits       ███████████████░░░░░░░░░░   59.36 % 
+🌞 Morning                4649 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌆 Daytime                13575 commits       ███████████████░░░░░░░░░░   59.35 % 
 🌃 Evening                4354 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
 🌙 Night                  293 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3585 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  3921 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Monday                   3585 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Tuesday                  3921 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 Wednesday                3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 Thursday                 3725 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
 Friday                   1642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Saturday                 2647 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Sunday                   3627 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Saturday                 2647 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   3630 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
 ```
 
 
@@ -199,21 +199,23 @@ Sunday                   3627 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           9 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.89 % 
-PHP                      8 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
-Other                    3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+PHP                      8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.94 % 
+Blade Template           7 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.76 % 
+Other                    3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Text                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Antigravity IDE          20 hrs 23 mins      ██████████████████████░░░   88.43 % 
-Edge                     2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Antigravity IDE          17 hrs 20 mins      ██████████████████████░░░   88.09 % 
+Edge                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         23 hrs 3 mins       █████████████████████████   100.00 % 
+graphicdesigneye         19 hrs 31 mins      █████████████████████████   99.14 % 
+CV                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  23 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 22 mins      █████████████████████████   98.42 % 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -233,5 +235,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 20:03:31 UTC
+ Last Updated on 26/07/2026 20:06:07 UTC
 <!--END_SECTION:waka-->
