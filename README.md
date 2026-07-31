@@ -156,11 +156,11 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C596%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C596%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-131%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-132%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -201,48 +201,48 @@ Sunday                   3630 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      4 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Other                    4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Blade Template           3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Text                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Other                    5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+PHP                      4 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Blade Template           3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Markdown                 2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Text                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-Antigravity IDE          12 hrs 27 mins      ██████████████████░░░░░░░   72.02 % 
-Edge                     4 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Antigravity IDE          13 hrs 50 mins      ███████████████████░░░░░░   74.48 % 
+Edge                     4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         15 hrs 6 mins       ██████████████████████░░░   87.31 % 
-DailyPrayerTime          2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-CV                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+graphicdesigneye         16 hrs 22 mins      ██████████████████████░░░   88.18 % 
+DailyPrayerTime          2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+CV                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  16 hrs 59 mins      █████████████████████████   98.20 % 
-Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Windows                  18 hrs 15 mins      █████████████████████████   98.33 % 
+Linux                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 36 mins (61.32%)
+⏱ AI Coding Time: 11 hrs 13 mins (60.41%)
 
-✍️ 793 lines written by AI, 48 lines written by hand (94.29% AI-written)
+✍️ 912 lines written by AI, 54 lines written by hand (94.41% AI-written)
 
 🔤 34,460 Input Tokens, 22 Output Tokens
 
 💵 $0.17 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 138 AI Prompts
+🧠 14 AI Sessions, 142 AI Prompts
 
-Gemini                   923 lines           █████████████████████████   100.00 % 
+Gemini                   1,053 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.29% of written lines came from AI
-📝 Concise Prompter — average 354 characters per prompt
+🤖 AI-Driven — 94.41% of written lines came from AI
+📝 Concise Prompter — average 450 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🔍 Hands-On Reviewer — 64.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 60.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -262,5 +262,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 20:27:10 UTC
+ Last Updated on 31/07/2026 20:25:19 UTC
 <!--END_SECTION:waka-->
