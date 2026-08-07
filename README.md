@@ -156,6 +156,10 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C612%20hrs%2058%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%203%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -170,6 +174,77 @@ Watches your Laravel log file and notifies you when it changes
  > 
 > 🔑 52 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                4655 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌆 Daytime                13594 commits       ███████████████░░░░░░░░░░   59.37 % 
+🌃 Evening                4357 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌙 Night                  293 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3592 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Tuesday                  3926 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Wednesday                3731 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Thursday                 3729 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Friday                   1642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+Saturday                 2648 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Sunday                   3631 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+Other                    8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
+Blade Template           6 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+PHP                      3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Vue                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+
+🔥 Editors: 
+Antigravity IDE          22 hrs 50 mins      ███████████████████████░░   92.90 % 
+Edge                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+
+🐱‍💻 Projects: 
+graphicdesigneye         19 hrs 47 mins      ████████████████████░░░░░   80.52 % 
+worktracker              4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+daily-prayer-timer-websit23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+DailyPrayerTime          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
+💻 Operating System: 
+Windows                  24 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 18 hrs 38 mins (75.87%)
+
+✍️ 3,986 lines written by AI, 177 lines written by hand (95.75% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 242 AI Prompts
+
+Gemini                   4,317 lines         █████████████████████████   99.79 % 
+Sonnet                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.75% of written lines came from AI
+📝 Concise Prompter — average 244 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🔍 Hands-On Reviewer — 50.28% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -187,5 +262,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:45:09 UTC
+ Last Updated on 07/08/2026 19:51:24 UTC
 <!--END_SECTION:waka-->
