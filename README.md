@@ -156,9 +156,9 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C612%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C618%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-151%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-155%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -166,7 +166,7 @@ Watches your Laravel log file and notifies you when it changes
 
 > 📦 7.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2,012 Contributions in the Year 2026
+> 🏆 2,015 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -177,8 +177,8 @@ Watches your Laravel log file and notifies you when it changes
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4656 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-🌆 Daytime                13596 commits       ███████████████░░░░░░░░░░   59.36 % 
+🌞 Morning                4658 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌆 Daytime                13597 commits       ███████████████░░░░░░░░░░   59.36 % 
 🌃 Evening                4358 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 🌙 Night                  293 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
@@ -191,7 +191,7 @@ Wednesday                3731 commits        ████░░░░░░░�
 Thursday                 3729 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Friday                   1642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 Saturday                 2652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Sunday                   3631 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+Sunday                   3634 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
 
 
@@ -201,48 +201,48 @@ Sunday                   3631 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    8 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   34.67 % 
-Blade Template           6 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-PHP                      3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Vue                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Other                    11 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   35.04 % 
+Blade Template           9 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
+PHP                      5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Rust                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Antigravity IDE          22 hrs 50 mins      ███████████████████████░░   92.90 % 
-Edge                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Antigravity IDE          28 hrs 49 mins      ██████████████████████░░░   88.95 % 
+Edge                     3 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         19 hrs 47 mins      ████████████████████░░░░░   80.52 % 
-worktracker              4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-daily-prayer-timer-websit23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-DailyPrayerTime          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+graphicdesigneye         27 hrs 48 mins      █████████████████████░░░░   85.85 % 
+worktracker              3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+daily-prayer-timer-websit23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+DailyPrayerTime          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  24 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 38 mins (75.87%)
+⏱ AI Coding Time: 22 hrs 50 mins (70.51%)
 
-✍️ 3,986 lines written by AI, 177 lines written by hand (95.75% AI-written)
+✍️ 3,690 lines written by AI, 232 lines written by hand (94.08% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 242 AI Prompts
+🧠 17 AI Sessions, 331 AI Prompts
 
-Gemini                   4,317 lines         █████████████████████████   99.79 % 
-Sonnet                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Gemini                   4,176 lines         █████████████████████████   99.78 % 
+Sonnet                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.75% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🔍 Hands-On Reviewer — 50.28% of changed lines were hand-edited
+🤖 AI-Driven — 94.08% of written lines came from AI
+📝 Concise Prompter — average 264 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🔍 Hands-On Reviewer — 53.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -262,5 +262,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:32:50 UTC
+ Last Updated on 09/08/2026 19:33:11 UTC
 <!--END_SECTION:waka-->
