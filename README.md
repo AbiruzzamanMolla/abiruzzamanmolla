@@ -156,9 +156,9 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C639%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C643%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -201,51 +201,49 @@ Sunday                   3635 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      15 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   34.84 % 
-Blade Template           14 hrs              ████████░░░░░░░░░░░░░░░░░   31.84 % 
-Other                    8 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Markdown                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-C#                       48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+PHP                      16 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   38.82 % 
+Blade Template           14 hrs              ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Other                    7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Markdown                 2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+C#                       48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Antigravity IDE          38 hrs 6 mins       ██████████████████████░░░   86.57 % 
-Edge                     4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-OpenCode                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Antigravity IDE          36 hrs 32 mins      ██████████████████████░░░   87.60 % 
+Edge                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+OpenCode                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         39 hrs 18 mins      ██████████████████████░░░   89.31 % 
-worktracker              2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-DailyPrayerTime          2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-daily-prayer-timer-websit23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+graphicdesigneye         38 hrs 13 mins      ███████████████████████░░   91.63 % 
+DailyPrayerTime          2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+worktracker              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Windows                  44 hrs              █████████████████████████   100.00 % 
+Windows                  41 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 19 mins (73.45%)
+⏱ AI Coding Time: 31 hrs 21 mins (75.16%)
 
-✍️ 6,126 lines written by AI, 135 lines written by hand (97.84% AI-written)
+✍️ 5,206 lines written by AI, 96 lines written by hand (98.19% AI-written)
 
 🔤 992,819 Input Tokens, 90,514 Output Tokens
 
 💵 $67.32 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 479 AI Prompts
+🧠 15 AI Sessions, 427 AI Prompts
 
-Gemini                   4,714 lines         ██████████████████░░░░░░░   72.83 % 
-Mimo                     1,538 lines         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
-Sonnet                   221 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Gemini                   3,799 lines         █████████████████░░░░░░░░   68.35 % 
+Mimo                     1,538 lines         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Sonnet                   221 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.84% of written lines came from AI
+🤖 AI-Driven — 98.19% of written lines came from AI
 📝 Concise Prompter — average 221 characters per prompt
-🔁 Iterative Prompter — average 27 prompts per session
-🚀 High AI Trust — 41.25% of changed lines were hand-edited
+🔁 Iterative Prompter — average 28 prompts per session
+🚀 High AI Trust — 16.84% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -265,5 +263,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 20:02:41 UTC
+ Last Updated on 13/08/2026 19:59:18 UTC
 <!--END_SECTION:waka-->
