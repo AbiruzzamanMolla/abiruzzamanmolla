@@ -156,17 +156,17 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C643%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C649%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2011%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 7.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2,018 Contributions in the Year 2026
+> 🏆 2,021 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -178,19 +178,19 @@ Watches your Laravel log file and notifies you when it changes
 
 ```text
 🌞 Morning                4661 commits        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-🌆 Daytime                13602 commits       ███████████████░░░░░░░░░░   59.35 % 
-🌃 Evening                4361 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌆 Daytime                13602 commits       ███████████████░░░░░░░░░░   59.34 % 
+🌃 Evening                4364 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
 🌙 Night                  294 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3595 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Monday                   3595 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
 Tuesday                  3929 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 Wednesday                3734 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 3730 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Friday                   1642 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Saturday                 2653 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Thursday                 3730 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Friday                   1645 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Saturday                 2653 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
 Sunday                   3635 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
 ```
 
@@ -201,49 +201,49 @@ Sunday                   3635 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      16 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   38.82 % 
-Blade Template           14 hrs              ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Other                    7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Markdown                 2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-C#                       48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+PHP                      18 hrs 26 mins      ███████████░░░░░░░░░░░░░░   42.51 % 
+Blade Template           13 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   31.31 % 
+Other                    7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Markdown                 2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+C#                       48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🔥 Editors: 
-Antigravity IDE          36 hrs 32 mins      ██████████████████████░░░   87.60 % 
-Edge                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-OpenCode                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Antigravity IDE          38 hrs 12 mins      ██████████████████████░░░   88.05 % 
+Edge                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+OpenCode                 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         38 hrs 13 mins      ███████████████████████░░   91.63 % 
-DailyPrayerTime          2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-worktracker              1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+graphicdesigneye         40 hrs 14 mins      ███████████████████████░░   92.73 % 
+DailyPrayerTime          2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+worktracker              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Windows                  41 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 21 mins (75.16%)
+⏱ AI Coding Time: 33 hrs 13 mins (76.58%)
 
-✍️ 5,206 lines written by AI, 96 lines written by hand (98.19% AI-written)
+✍️ 5,320 lines written by AI, 103 lines written by hand (98.1% AI-written)
 
-🔤 992,819 Input Tokens, 90,514 Output Tokens
+🔤 992,982 Input Tokens, 90,618 Output Tokens
 
-💵 $67.32 Estimated AI Cost This Week
+💵 $67.77 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 427 AI Prompts
+🧠 14 AI Sessions, 483 AI Prompts
 
-Gemini                   3,799 lines         █████████████████░░░░░░░░   68.35 % 
-Mimo                     1,538 lines         ███████░░░░░░░░░░░░░░░░░░   27.67 % 
-Sonnet                   221 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Gemini                   4,001 lines         █████████████████░░░░░░░░   68.50 % 
+Mimo                     1,538 lines         ███████░░░░░░░░░░░░░░░░░░   26.33 % 
+Sonnet                   302 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.19% of written lines came from AI
-📝 Concise Prompter — average 221 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 16.84% of changed lines were hand-edited
+🤖 AI-Driven — 98.1% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 34 prompts per session
+🚀 High AI Trust — 16.3% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -263,5 +263,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:59:18 UTC
+ Last Updated on 14/08/2026 19:52:23 UTC
 <!--END_SECTION:waka-->
