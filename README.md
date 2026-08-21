@@ -201,48 +201,48 @@ Sunday                   3635 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      21 hrs 4 mins       █████████████░░░░░░░░░░░░   51.34 % 
-Blade Template           12 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   30.09 % 
-Other                    3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-XAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+PHP                      18 hrs 18 mins      █████████████░░░░░░░░░░░░   51.28 % 
+Blade Template           9 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Other                    3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Markdown                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+XAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Antigravity IDE          38 hrs 13 mins      ███████████████████████░░   93.11 % 
-Edge                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Antigravity IDE          32 hrs 52 mins      ███████████████████████░░   92.08 % 
+Edge                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         37 hrs 39 mins      ███████████████████████░░   91.74 % 
-DailyPrayerTime          3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-worktracker              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-t2s-google-ai-python     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+graphicdesigneye         32 hrs 18 mins      ███████████████████████░░   90.50 % 
+DailyPrayerTime          3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+worktracker              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+t2s-google-ai-python     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  41 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  35 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 31 mins (74.35%)
+⏱ AI Coding Time: 25 hrs 14 mins (70.68%)
 
-✍️ 3,670 lines written by AI, 607 lines written by hand (85.81% AI-written)
+✍️ 2,932 lines written by AI, 599 lines written by hand (83.04% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 459 AI Prompts
+🧠 11 AI Sessions, 343 AI Prompts
 
-Gemini                   4,427 lines         ███████████████████████░░   92.23 % 
-Sonnet                   373 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Gemini                   3,573 lines         ███████████████████████░░   92.66 % 
+Sonnet                   283 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.81% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
-🔁 Iterative Prompter — average 38 prompts per session
-🚀 High AI Trust — 31.68% of changed lines were hand-edited
+🤖 AI-Driven — 83.04% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
+🔁 Iterative Prompter — average 31 prompts per session
+🚀 High AI Trust — 36.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -262,5 +262,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:33:53 UTC
+ Last Updated on 21/08/2026 19:29:28 UTC
 <!--END_SECTION:waka-->
