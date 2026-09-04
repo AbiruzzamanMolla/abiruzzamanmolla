@@ -156,9 +156,9 @@ Watches your Laravel log file and notifies you when it changes
 <img src="https://komarev.com/ghpvc/?username=AbiruzzamanMolla&color=green"/> <p align="left"> <a href="https://twitter.com/abiruzzaman_m" target="blank"><img src="https://img.shields.io/twitter/follow/abiruzzaman_m?logo=twitter&style=for-the-badge" alt="asliabir" /></a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C722%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C725%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-239%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -177,21 +177,21 @@ Watches your Laravel log file and notifies you when it changes
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4658 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-🌆 Daytime                13653 commits       ███████████████░░░░░░░░░░   59.22 % 
-🌃 Evening                4390 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
-🌙 Night                  355 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+🌞 Morning                4680 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+🌆 Daytime                13690 commits       ███████████████░░░░░░░░░░   59.18 % 
+🌃 Evening                4403 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌙 Night                  359 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3581 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Tuesday                  3957 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Wednesday                3782 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Thursday                 3741 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Friday                   1709 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Saturday                 2656 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Sunday                   3630 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Monday                   3603 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Tuesday                  3973 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Wednesday                3787 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Thursday                 3756 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+Friday                   1709 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Saturday                 2661 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Sunday                   3643 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 ```
 
 
@@ -201,45 +201,45 @@ Sunday                   3630 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           9 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.25 % 
-PHP                      9 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   37.47 % 
-Other                    3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-CSV                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Python                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Blade Template           11 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.08 % 
+PHP                      9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
+Other                    3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+CSV                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Antigravity IDE          21 hrs 58 mins      ███████████████████████░░   90.06 % 
-Edge                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Antigravity IDE          23 hrs 46 mins      ███████████████████████░░   90.74 % 
+Edge                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         23 hrs 41 mins      ████████████████████████░   97.11 % 
-mailgr                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+graphicdesigneye         25 hrs 30 mins      ████████████████████████░   97.31 % 
+mailgr                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
 💻 Operating System: 
-Windows                  24 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 53 mins (65.16%)
+⏱ AI Coding Time: 17 hrs 34 mins (67.03%)
 
-✍️ 873 lines written by AI, 233 lines written by hand (78.93% AI-written)
+✍️ 849 lines written by AI, 251 lines written by hand (77.18% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 211 AI Prompts
+🧠 9 AI Sessions, 220 AI Prompts
 
-Gemini                   768 lines           ████████████████░░░░░░░░░   64.00 % 
-Antigravity-Ide          432 lines           █████████░░░░░░░░░░░░░░░░   36.00 % 
+Gemini                   1,074 lines         █████████████████████░░░░   85.92 % 
+Antigravity-Ide          176 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.93% of written lines came from AI
-📝 Concise Prompter — average 113 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 37.01% of changed lines were hand-edited
+🤖 AI-Driven — 77.18% of written lines came from AI
+📝 Concise Prompter — average 144 characters per prompt
+🔁 Iterative Prompter — average 24 prompts per session
+🚀 High AI Trust — 35.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -259,5 +259,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 21:40:13 UTC
+ Last Updated on 04/09/2026 21:22:02 UTC
 <!--END_SECTION:waka-->
