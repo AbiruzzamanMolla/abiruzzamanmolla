@@ -166,32 +166,32 @@ Watches your Laravel log file and notifies you when it changes
 
 > 📦 7.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2,080 Contributions in the Year 2026
+> 🏆 2,083 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 91 Public Repositories 
  > 
-> 🔑 53 Private Repositories 
+> 🔑 54 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4761 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-🌆 Daytime                14042 commits       ███████████████░░░░░░░░░░   58.20 % 
-🌃 Evening                4788 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-🌙 Night                  535 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+🌞 Morning                4667 commits        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+🌆 Daytime                13607 commits       ███████████████░░░░░░░░░░   59.17 % 
+🌃 Evening                4366 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+🌙 Night                  355 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3653 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Tuesday                  4063 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Wednesday                3905 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Thursday                 3913 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Friday                   1937 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-Saturday                 2827 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Sunday                   3828 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+Monday                   3587 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Tuesday                  3953 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Wednesday                3766 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Thursday                 3732 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Friday                   1695 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Saturday                 2647 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Sunday                   3615 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 ```
 
 
@@ -201,55 +201,55 @@ Sunday                   3828 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Blade Template           11 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.08 % 
-PHP                      9 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.87 % 
-Other                    3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-CSV                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+PHP                      8 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.34 % 
+Blade Template           8 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.85 % 
+Other                    3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Python                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+CSV                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-Antigravity IDE          23 hrs 46 mins      ███████████████████████░░   90.74 % 
-Edge                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Antigravity IDE          20 hrs 17 mins      ██████████████████████░░░   89.32 % 
+Edge                     2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         25 hrs 30 mins      ████████████████████████░   97.31 % 
-mailgr                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+graphicdesigneye         22 hrs 1 min        ████████████████████████░   96.89 % 
+mailgr                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Windows                  26 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 34 mins (67.03%)
+⏱ AI Coding Time: 15 hrs 24 mins (67.8%)
 
-✍️ 849 lines written by AI, 251 lines written by hand (77.18% AI-written)
+✍️ 560 lines written by AI, 133 lines written by hand (80.81% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 220 AI Prompts
+🧠 8 AI Sessions, 171 AI Prompts
 
-Gemini                   1,074 lines         █████████████████████░░░░   85.92 % 
-Antigravity-Ide          176 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Gemini                   616 lines           ███████████████████░░░░░░   77.78 % 
+Antigravity-Ide          176 lines           ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.18% of written lines came from AI
-📝 Concise Prompter — average 144 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🚀 High AI Trust — 35.0% of changed lines were hand-edited
+🤖 AI-Driven — 80.81% of written lines came from AI
+📝 Concise Prompter — average 163 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 18.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               37 repos            █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-HTML                     34 repos            █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-PHP                      32 repos            █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Blade                    23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+JavaScript               37 repos            █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+PHP                      32 repos            █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Blade                    23 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+TypeScript               19 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Vue                      6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 
 
@@ -259,5 +259,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:54:19 UTC
+ Last Updated on 06/09/2026 20:56:28 UTC
 <!--END_SECTION:waka-->
