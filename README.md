@@ -166,7 +166,7 @@ Watches your Laravel log file and notifies you when it changes
 
 > 📦 7.8 MB Used in GitHub's Storage 
  > 
-> 🏆 2,183 Contributions in the Year 2026
+> 🏆 2,186 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -177,21 +177,21 @@ Watches your Laravel log file and notifies you when it changes
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4723 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-🌆 Daytime                13819 commits       ███████████████░░░░░░░░░░   58.98 % 
-🌃 Evening                4491 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-🌙 Night                  398 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+🌞 Morning                4368 commits        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+🌆 Daytime                12965 commits       ███████████████░░░░░░░░░░   58.95 % 
+🌃 Evening                4298 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+🌙 Night                  362 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3630 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Tuesday                  4019 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Wednesday                3821 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Thursday                 3800 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Friday                   1759 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Saturday                 2722 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Sunday                   3680 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Monday                   3412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Tuesday                  3784 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Wednesday                3581 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Thursday                 3568 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Friday                   1646 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Saturday                 2638 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Sunday                   3364 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
 ```
 
 
@@ -201,46 +201,45 @@ Sunday                   3680 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Other                    14 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   35.80 % 
-Blade Template           11 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-PHP                      11 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other                    13 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.87 % 
+Blade Template           10 hrs 41 mins      ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+PHP                      9 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+JavaScript               1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Antigravity IDE          35 hrs 55 mins      ██████████████████████░░░   89.15 % 
-Edge                     4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+Antigravity IDE          32 hrs 27 mins      ███████████████████████░░   90.01 % 
+Edge                     3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 
 🐱‍💻 Projects: 
-graphicdesigneye         30 hrs 21 mins      ███████████████████░░░░░░   75.34 % 
-globalfashion            9 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-t2s-google-ai-python     44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+graphicdesigneye         30 hrs 22 mins      █████████████████████░░░░   84.22 % 
+globalfashion            5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 
 💻 Operating System: 
-Windows                  40 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 8 mins (54.95%)
+⏱ AI Coding Time: 18 hrs 49 mins (52.2%)
 
-✍️ 3,864 lines written by AI, 2,871 lines written by hand (57.37% AI-written)
+✍️ 3,138 lines written by AI, 2,869 lines written by hand (52.24% AI-written)
 
-🔤 28,448,194 Input Tokens, 1,409,450 Output Tokens
+🔤 23,886,614 Input Tokens, 1,184,311 Output Tokens
 
-💵 $74.12 Estimated AI Cost This Week
+💵 $62.29 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 269 AI Prompts
+🧠 11 AI Sessions, 211 AI Prompts
 
-Gemini                   4,173 lines         █████████████████████████   99.00 % 
-Sonnet                   42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Gemini                   3,447 lines         █████████████████████████   98.80 % 
+Sonnet                   42 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 57.37% of written lines came from AI
-📝 Concise Prompter — average 201 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 41.18% of changed lines were hand-edited
+⚖️ Balanced with AI — 52.24% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 45.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -260,5 +259,5 @@ Vue                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AbiruzzamanMolla/AbiruzzamanMolla/master/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:48:03 UTC
+ Last Updated on 03/10/2026 22:02:47 UTC
 <!--END_SECTION:waka-->
